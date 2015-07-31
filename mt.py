@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#(__)__)///////////////////D
 import sys, time, os, random
 class color:
     RED = '\033[91m'
